@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClInclude Include="BasicKalman.h" />
     <ClInclude Include="Matrix.h" />
+    <ClInclude Include="Measure.h" />
     <ClInclude Include="MISC.h" />
     <ClInclude Include="Vector.h" />
     <ClInclude Include="WRSHAKF.h" />
